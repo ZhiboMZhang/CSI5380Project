@@ -27,7 +27,6 @@
                    			<td><c:out value="${data.category}"/></td>               
            				</tr>
            			 </c:forEach>
-                
 				</tbody>
 			</table>
 		</body>
