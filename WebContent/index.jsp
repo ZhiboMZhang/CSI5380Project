@@ -7,6 +7,6 @@
 <title>demo</title>
 </head>
 <body>
-<h1 align="center">datasheet</h1>
+<jsp:forward page="/DataController?action=listData" />
 </body>
 </html>
