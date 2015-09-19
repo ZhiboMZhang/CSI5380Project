@@ -26,7 +26,7 @@ public class DataDao {
 		catch(SQLException e){
 		e.printStackTrace();	
 		}
-		System.out.println(datas);
+		//System.out.println(datas);
 		return datas;
 		
 	}	 
