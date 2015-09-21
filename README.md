@@ -1,4 +1,4 @@
-# CSI5380Project
+CSI5380Project
 ---
 ##Description
 
