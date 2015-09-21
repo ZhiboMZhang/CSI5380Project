@@ -1,6 +1,4 @@
-#CSI5380Project
-  -scs.carleton.ca
-
+#CSI5380Project-scs.carleton.ca
 ---
 
 ###Description
