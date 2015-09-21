@@ -1,6 +1,9 @@
-##CSI5380Project
+#CSI5380Project
+  -scs.carleton.ca
 
-#Description
+---
+
+###Description
 
 This is a course project for CSI 5380 (FALL-2015), University of Ottawa.
 Project is about to build a webapplication for a CD store using JSP/Servlet/JDBC/MySQL.
@@ -12,7 +15,7 @@ wenqianwang@cmail.carleton.ca.
 
 ---
 
-#Notice
+###Notice
 We are very welcome to people who want to join us.
 A snapshot of the contribution chart of each member in this team maybe required to be provide at the end of the semester.
 
